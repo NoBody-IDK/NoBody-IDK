@@ -6,9 +6,9 @@
 
 [![⭐ GitHub](https://img.shields.io/github/stars/NoBody-UU?style=social)](https://github.com/stars/NoBody-UU)
 [![DevServer](https://discordapp.com/api/guilds/644672989014523940/widget.png?style=shield)](https://discord.gg/FMbXwGPJGm)
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:838338447932391436)
 
-# 
+
+# [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:838338447932391436)
 <div align="center">
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
