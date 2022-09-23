@@ -8,8 +8,7 @@
 [![DevServer](https://discordapp.com/api/guilds/644672989014523940/widget.png?style=shield)](https://discord.gg/FMbXwGPJGm)
 
 
-# [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:838338447932391436)
-<div align="center">
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/838338447932391436?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
