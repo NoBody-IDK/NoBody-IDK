@@ -7,6 +7,7 @@
 [![⭐ GitHub](https://img.shields.io/github/stars/NoBody-UU?style=social)](https://github.com/stars/NoBody-UU)
 [![DevServer](https://discordapp.com/api/guilds/644672989014523940/widget.png?style=shield)](https://discord.gg/FMbXwGPJGm)
 [![MyBot](https://badgen.net/badge/icon/MyBot/yellow?icon=dependabot&label)](https://dsc.gg/cuchus)
+[![RataCalva](https://custom-icon-badges.demolab.com/badge/-RataCalva-yellow?style=for-the-badge&logo=heart&logoColor=red)](https://github.com/NoBody-UU)
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/838338447932391436)](https://discord.com/users/838338447932391436)
