@@ -1,6 +1,6 @@
 
 
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="NOBODY IMAGE" src="https://imgur.com/a/Yer5Aaq">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images-ext-1.discordapp.net/external/KS3JwY0Nv97KAMXxWxqjnSY6eAU73im6HTo1Ow_BrbU/https/i.imgur.com/jlwmYiph.jpg">  
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=F7E50E&width=450&height=70&lines=Hey!+I'm+NoBody!+;Welcome+To+My+GitHub)](https://git.io/typing-svg) 
 
@@ -40,7 +40,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoBody-UU&theme=buefy&show_icons=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBody-UU&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
-
 </div>
 
 <br/>
