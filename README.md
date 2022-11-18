@@ -41,15 +41,15 @@
 
 <h3> 📈 &nbsp;My Stats</h3>
 
-<div align="center">
+<div align="left">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoBody-UU&theme=buefy&show_icons=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBody-UU&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+	
 </div>
 
 <br/>
-
 <div align="center">
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=NoBody-UU&theme=dark)
