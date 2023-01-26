@@ -41,7 +41,7 @@
 <div align="left">
 <h3> 📈 &nbsp;My Stats</h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBody-UU&title_color=FFD700&bg_color=1f1f1f&icon_color=FF0074&text_color=FFFFFF&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=310" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoBody-UU&title_color=FFD700&bg_color=1f1f1f&icon_color=FF0074&text_color=FFFFFF&theme=gruvbox&show_icons=true&include_all_commits=false&card_width=390" />	
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoBody-UU&title_color=FFD700&bg_color=1f1f1f&icon_color=FF0074&text_color=FFFFFF&theme=gruvbox&show_icons=true&include_all_commits=false&card_width=370" />	
 </div>
 
 <div align="center">
