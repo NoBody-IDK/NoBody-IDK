@@ -8,6 +8,8 @@
 [![DevServer](https://discordapp.com/api/guilds/644672989014523940/widget.png?style=shield)](https://discord.gg/FMbXwGPJGm)
 [![MyBot](https://badgen.net/badge/icon/MyBot/yellow?icon=dependabot&label)](https://dsc.gg/cuchus)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NoBody-UU&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
+
 <div aling="right">
 <a href="https://discord.com/users/838338447932391436" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/838338447932391436?bg=1f1f1f&borderRadius=5px">
@@ -41,7 +43,7 @@
 <div align="left">
 <h3> 📈 &nbsp;My Stats</h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBody-UU&title_color=FFD700&bg_color=1f1f1f&icon_color=FF0074&text_color=FFFFFF&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=300" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoBody-UU&title_color=FFD700&bg_color=1f1f1f&icon_color=FF0074&text_color=FFFFFF&theme=gruvbox&show_icons=true&include_all_commits=false&card_width=200" />	
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoBody-UU&title_color=FFD700&bg_color=1f1f1f&icon_color=FF0074&text_color=FFFFFF&theme=gruvbox&show_icons=true&include_all_commits=false&card_width=100" />	
 </div>
 
 <div align="center">
