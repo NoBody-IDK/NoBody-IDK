@@ -23,7 +23,7 @@
 
 - 👨‍💻 &nbsp; I’m currently studying.
 - 💬 &nbsp; I Love dev `Discords  Bots` and `Websites`.
-- 🌱 &nbsp; I’m currently learning `TS`.
+- 🌱 &nbsp; I’m currently learning `?`.
 - 🎈 My own Discord Bot: https://cuchus.xyz
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
