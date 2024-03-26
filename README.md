@@ -26,27 +26,50 @@
 - 🌱 &nbsp; I’m currently learning `?`.
 - 🎈 My own Discord Bot: https://cuchus.xyz
 <h3> 🛠 &nbsp;Tech Stack</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+</div>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
-
+###
 
 <div align="left">
-<h3> 📈 &nbsp;My Stats</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBody-UU&title_color=FFD700&bg_color=1f1f1f&icon_color=FF0074&text_color=FFFFFF&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=300" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoBody-UU&title_color=FFD700&bg_color=1f1f1f&icon_color=FF0074&text_color=FFFFFF&theme=gruvbox&show_icons=true&include_all_commits=false&card_width=100" />	
+	
+# 📊 GitHub Stats:
+	
+![](https://github-readme-stats.vercel.app/api?username=NoBody-UU&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoBody-UU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://github-readme-streak-stats.herokuapp.com?user=NoBody-UU&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=490)](https://git.io/streak-stats)
+
 </div>
 
-<div align="center">
+---
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+
