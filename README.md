@@ -3,12 +3,12 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images-ext-1.discordapp.net/external/KS3JwY0Nv97KAMXxWxqjnSY6eAU73im6HTo1Ow_BrbU/https/i.imgur.com/jlwmYiph.jpg">  
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=F7E50E&width=450&height=70&lines=Hey!+I'm+NoBody!+;Welcome+To+My+GitHub)](https://git.io/typing-svg) 
-[![RataCalva](https://custom-icon-badges.demolab.com/badge/-RataCalva-yellow?style=for-the-badge&logo=heart&logoColor=red)](https://github.com/NoBody-UU)
-[![⭐ GitHub](https://img.shields.io/github/stars/NoBody-UU?style=social)](https://github.com/stars/NoBody-UU)
+[![RataCalva](https://custom-icon-badges.demolab.com/badge/-RataCalva-yellow?style=for-the-badge&logo=heart&logoColor=red)](https://github.com/NoBody-IDK)
+[![⭐ GitHub](https://img.shields.io/github/stars/NoBody-IDK?style=social)](https://github.com/stars/NoBody-IDK)
 [![DevServer](https://discordapp.com/api/guilds/644672989014523940/widget.png?style=shield)](https://discord.gg/FMbXwGPJGm)
 [![MyBot](https://badgen.net/badge/icon/MyBot/yellow?icon=dependabot&label)](https://dsc.gg/cuchus)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NoBody-UU&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NoBody-IDK&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
 
 <div aling="right">
 <a href="https://discord.com/users/838338447932391436" target="_blank">
@@ -61,12 +61,12 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoBody-UU&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NoBody-IDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBody-UU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBody-IDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=NoBody-UU&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=490" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NoBody-IDK&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=490" alt="GitHub Streak" />
   </a>
 </div>
 
